@@ -1,0 +1,6 @@
+node_modules
+.env
+<<<<<<< HEAD
+=======
+coverage
+>>>>>>> 8e2afe3a1678b76995ca53c77f3fe478680afd83
